@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="fooddetails">
+        <item>名称</item>
+        <item>描述</item>
+        <item>价格</item>
+        <item></item>
+    </string-array>
+</resources>

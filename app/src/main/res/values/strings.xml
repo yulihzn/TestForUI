@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RandomFood</string>
+    <string name="test">RandomFood</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_day">Day</string>
+    <string name="title_my">My</string>
+    <string name="food_details_name">名称：</string>
+    <string name="food_details_desc">描述：</string>
+    <string name="food_details_price">价格：</string>
+    <string name="title">专题</string>
+
+</resources>
